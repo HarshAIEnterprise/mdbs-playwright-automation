@@ -1,0 +1,4 @@
+Customer Number: 162
+Customer Name: Play1000, Auto
+Invoice/Quote: 0005
+Message: tp quote has been generated.
